@@ -53,6 +53,16 @@ Discussing racism in school is a crucial part of addressing diversity!
 Educate Yourself: We can start by learning about racism and its history and impact on society. You can read books, watch documentaries, and listen to personal anecdotes. Understanding different perspectives is critical in a discussion.\n
 Engage in Discussions or Activities: If your school has a student-led club against racism, participating in that club can give you a keen idea to promote understanding and inclusivity.
 
+"""), SchoolList(icon: "eye.fill", image: "modelVision", title: "Model Vision", caption: "How can we envision and implement strategies to address racism?", description: """
+Education Curriculum Integration: Ask teachers or adults regarding including lessons on racial equality and social justice in the school curriculum. \n
+Enforcing a No Tolerance Policy for Discrimination in Class: Establishing clear regulations against racism and ensuring that victims supported.
+
+"""),
+        SchoolList(icon: "person.3.sequence.fill", image: "groupNorms", title: "Group Norms", caption: "How can we set shared guidelines and rules for everyone?", description: """
+Respect for All Voices: Ensure that everyone has the opportunity to speak and their opinions are heard, making it a more inclusive environment. \n
+Open-Mindedness: Encourage everyone to be open in learning and considering new ideas to challenge this situation, helping to promote personal growth. \n
+Empathy & Understanding: Encourage empathy by trying to understand others’ experiences and viewpoints from others.
+
 """)
     
     ]
